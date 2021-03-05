@@ -1,7 +1,6 @@
 # DSP-CustomAvatar
 DSP 自定义人物模型
 
-此插件基于非侵入性的mod框架，可以避免替换人物模型所需进行的繁琐的，侵入性的手动修改dll的操作。  
 
 用法  
 1.安装BepInEx (https://github.com/BepInEx/BepInEx/wiki/Installation) 只需将下载的文件解压到游戏根目录即可，无需覆盖任何文件。  
